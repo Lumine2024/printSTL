@@ -9,9 +9,7 @@ vector<int> v={1,2,3};
 print(v);
 
 Output result:
---------------------------
 the vector's size is 5
 containing elements:
 1 2 3 4 5
---------------------------
 I hope it helpful :)
